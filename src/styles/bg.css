@@ -1,0 +1,17 @@
+.offer{
+    background-image: url('../assets/image\ 25.png');
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: justify;
+    color:white;
+    font-weight: 700;
+    font-family: Tajawal;
+    font-size: large;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    gap: 5px;
+}
